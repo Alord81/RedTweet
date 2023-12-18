@@ -1,0 +1,25 @@
+:root {
+    --main-color:#fb0000;
+    --second-color:#76343d;
+    --third-color:#FB0000;
+    --forth-color:#df9440;
+    --fifth-color:#efac51;
+    --dark-color:#100f13;
+    --dark-secon-color:#222125;
+    --white-color:#ffff;
+    --white-second-color:#f6f8f7;
+    --main-font-color:#767676;
+    --second-font-color:#9e9e9e;
+    --hover-dark-color:#25212e;
+    --hover-white-color:#e2e6e8;
+    --icon-dark-color:#616370;
+    --icon-white-color:#72777b;
+    --title-color:#302b3c;
+
+    --main-transition: 0.3s;
+}
+
+
+.like:hover {
+    background-color: red;
+}
